@@ -1,0 +1,18 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/portfolio.png", 
+            "title": "Portfolio Page", 
+            "description": "ReactJS, HTML, CSS, SCSS", 
+            "url": ""
+        },
+
+        {
+            "cover": "/portfolio/chatbot.png", 
+            "title": "ECET Chat Bot", 
+            "description": "Python, Tensorflow, GPT2", 
+            "url": ""
+        }
+
+    ]
+}
