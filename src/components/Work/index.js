@@ -5,8 +5,7 @@ import Loader from "react-loaders";
 import Timeline from "./Timeline";
 import Logo1 from "./Logo1";
 
-const Work = () => {
-    
+const Work = () => {  
     const [letterClass, setLetterClass] = useState('text-animate')
 
     useEffect(() => {

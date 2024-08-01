@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import './index.scss';
-
 const Timeline = () => {
   const [events, setEvents] = useState([
     {

@@ -1,7 +1,6 @@
 import React from 'react';
 import Work from '../../../assets/images/Work.png';
 import './index.scss';
-
 const Logo1 = () => {
   return (
     <div className="job1-logo-container">

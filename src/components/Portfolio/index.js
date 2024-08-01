@@ -3,7 +3,6 @@ import Loader from "react-loaders";
 import "./index.scss";
 import AnimatedLetters from "../AnimatedLetters";
 import portfolioData from "../../data/portfolio.json";
-
 const Portfolio = () => {
     const [letterClass, setLetterClass] = useState('text-animate');
     console.log(portfolioData);
@@ -17,7 +16,6 @@ const Portfolio = () => {
             clearTimeout(timer);
         }
     });
-
     const renderPortfolio = (portfolio) => { 
         return (
             <div className = "images-container">

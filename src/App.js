@@ -10,7 +10,6 @@ import Work from './components/Work';
 import Tech from './components/About/Tech';
 import Dev from './components/About/Dev';
 
-
 function App() {
   useEffect(() => {
     document.title = 'Vamsi\'s Portfolio';

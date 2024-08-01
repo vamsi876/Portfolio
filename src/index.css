@@ -11,7 +11,6 @@ body {
   display: block;  
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
 }
 .dashboard{
   margin-top: 200px; 
