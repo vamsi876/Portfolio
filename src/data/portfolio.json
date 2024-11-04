@@ -10,8 +10,14 @@
         {
             "cover": "/portfolio/chatbot.png", 
             "title": "ECET Chat Bot", 
-            "description": "Python, Tensorflow, GPT2", 
+            "description": "Python, Transformers, LLAMA, VectorDB, RAG", 
             "url": ""
+        },
+        {
+            "cover": "/portfolio/chatbot.png", 
+            "title": "Voice command canvas platform", 
+            "description": "ML, ReactJS", 
+            "url": "https://voice-command-canvas.vercel.app/"
         }
 
     ]
