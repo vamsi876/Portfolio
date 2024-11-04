@@ -1,6 +1,6 @@
-# Vamsi's Coding Portfolio
+# Vamsi's Portfolio
 
-Welcome to my coding portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development.
+Welcome to my  portfolio! This web application is built using ReactJs with Sass styling, showcasing my skills, projects, and achievements in the field of web development.
 
 ## Table of Contents
 
